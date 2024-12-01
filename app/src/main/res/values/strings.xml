@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PracticaMenusFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="primer_fragment">Primer fragment</string>
+    <string name="segon_fragment">Segon fragment</string>
+    <string name="tercer_fragment">Tercer fragment</string>
+    <string name="nav_open">Hola</string>
+    <string name="nav_close">Adeu</string>
+    <string name="exit">Exit</string>
+    <string name="settings">Settings</string>
+    <string name="fragment_3">Fragment 3</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="joel_pigem">Joel Pigem</string>
+    <string name="joel_pigem_institutvidreres_com">joel.pigem@institutvidreres.com</string>
+    <string name="onfiguraci">onfiguració</string>
+    <string name="fragments_2_i_3">Fragments 2 i 3</string>
+    <string name="configuraci">Configuració</string>
+</resources>

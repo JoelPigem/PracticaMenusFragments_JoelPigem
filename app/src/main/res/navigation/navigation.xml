@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/primerFragment">
+
+    <fragment
+        android:id="@+id/primerFragment"
+        android:name="com.joelpigem.practicamenusfragments.PrimerFragment"
+        android:label="fragment_primer"
+        tools:layout="@layout/fragment_primer" />
+    <fragment
+        android:id="@+id/segonFragment"
+        android:name="com.joelpigem.practicamenusfragments.SegonFragment"
+        android:label="fragment_segon"
+        tools:layout="@layout/fragment_segon" />
+    <fragment
+        android:id="@+id/tercerFragment"
+        android:name="com.joelpigem.practicamenusfragments.TercerFragment"
+        android:label="fragment_tercer"
+        tools:layout="@layout/fragment_tercer" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.joelpigem.practicamenusfragments.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>
